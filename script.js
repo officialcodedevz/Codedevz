@@ -210,7 +210,7 @@ if (taskForm) {
             domain: document.getElementById("taskDomain").value,
             task: document.getElementById("taskName").value,
             link: document.getElementById("gitLink").value,
-            link: document.getElementById("demoLink").value
+            demolink: document.getElementById("demoLink").value
         };
 
         // 🔥 LOADING
