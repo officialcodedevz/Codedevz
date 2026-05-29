@@ -209,7 +209,8 @@ if (taskForm) {
             phone: document.getElementById("phoneNumber").value,
             domain: document.getElementById("taskDomain").value,
             task: document.getElementById("taskName").value,
-            link: document.getElementById("gitLink").value
+            link: document.getElementById("gitLink").value,
+            link: document.getElementById("demoLink").value
         };
 
         // 🔥 LOADING
